@@ -1,0 +1,159 @@
+.main-heading{
+    color: rgb(12, 12, 181);
+}
+
+.nav{
+    color:blue;
+}
+
+.body{
+    margin-top:70px;
+    font-style: Roboto;
+}
+
+.main-heading{
+    color:blue;
+    font-weight: bold;
+}
+
+.button{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+}
+
+.explore{
+    background-color: lightgrey;
+    border-radius: 3px;
+}
+
+.explore-heading{
+    font-weight: bold;
+}
+
+.card-1{
+    border-radius: 8px;
+    padding: 20px;
+    height:100%;
+}
+
+.card-title{
+    background-color: black;
+}
+
+.btn{
+    background-color:transparent;
+    border-width: 0px;
+}
+
+.des{
+    font-weight: bold;
+}
+
+.descrip{
+    color:black ;
+    text-align: left;
+}
+
+.thread-heading{
+    color:black;
+}
+
+.input{
+    border-width: 0px;
+}
+
+.input1{
+    border-width: 0px;
+    width:100%;
+}
+
+.sub-card{
+    border-radius: 5px;
+}
+
+.sub-thread-container{
+    display: flex;
+    justify-content: center;
+}
+
+.sub-card-container{
+    display:grid;
+    place-content: center;
+}
+
+.sub-card-3{
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.card-btn{
+    color:black;
+    background-color: transparent;
+    border-width: 0px;
+}
+
+.input-card-3{
+    height:100px;
+    width:100%;
+    border-width: 0px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color:lightgrey;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    width:150px;
+  }
+  
+ 
+  .border{
+    border-width:0px;
+    background-color: transparent;
+  }
+
+  .colour{
+    color: black;
+  }
+
+  .example{
+    width:500px;
+    border-width: 1px;
+    border-color: light-grey;
+  }
+
+  .card{
+    height: 400px;
+    overflow: auto;
+    padding: auto;
+  }
+
+  .sub-thread-button{
+    width: 150px;
+    border-width: 0px;
+    border-radius: 8px;
+  }
+
+  .select-category-width{
+    width:90px;
+  }
+
+  .nav2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-tag-2{
+    margin-top: 70px;
+  }
+
+  #navbarToggleExternalContent {
+    position: sticky;
+    top: 0;
+    
+  }
